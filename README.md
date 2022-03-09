@@ -1,2 +1,2 @@
-# CIND820 - The Impact of Weather Conditions on Bikeshare Usage in Toronto 
+# CIND820
 Big Data Analytics Project
