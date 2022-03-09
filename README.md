@@ -25,5 +25,5 @@ Data cleaning involved formating the datatypes of features appropriately, checki
 Exploratory Data Analysis was performed on each dataset using charts, histograms, correlation heatmaps, and lineplots to identify relationships between variables and patterns in bike share usage. 
 
 ## 4. Model Evaluation
-An inital model evaluation was performed using Linear Regression. The model will be further improved, and addition models will be evaluated using random forest regression, and gradient boosting regression.
+An inital model evaluation was performed using Linear Regression. The model will be further improved, and addition models will be evaluated using Random Forest Regression, and Gradient Boosting Regression.
 
