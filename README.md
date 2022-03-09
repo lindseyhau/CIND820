@@ -14,7 +14,7 @@ In this repository you will find:
 3. Documents - A compilation of technical and written reports in HTML and PDF format:
     i. Code files in html format,
 
-## Data
+## 1. Data
 Bike Share Toronto Ridership Data (2018) is from Toronto Parking Authority, published on https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/. The dataset consists of data for more than 1.9 million bikeshare trips, with 9 features.
 Toronto City Centre Hourly Weather Data (2018) is from Government of Canada, and can be downloaded from https://www.kaggle.com/jasonzxho/toronto-city-centre-hourly-weather-data-20172020?select=Weather+2018. The dataset consists of 8760 instances of hourly weather data, with 28 features.
 
