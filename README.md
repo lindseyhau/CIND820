@@ -3,15 +3,15 @@
 ## Overview
 The purpose of this study will be to evaluate the impact of weather conditions on bikeshare usage in Toronto and predict bikeshare demand. 
 In this repository you will find:
-1. Code Files - A set of technical reports in JupyterNotebook (IPYNB) format
+1. Code Files - A set of technical reports in JupyterNotebook (IPYNB) format:
     i. Combining Datasets & Data Cleaning,
     ii. EDA (Exploratory Data Analysis),
     iii. Model Evaulation (1)
-2. Data - Links to downloaded data, raw data & cleaned data in CVS format
+2. Data - Links to downloaded data, raw data & cleaned data in CVS format:
     i. Raw Data Download Links,
-    ii. Toronto City Centre Hourly Weather Data (2018) ,
+    ii. Toronto City Centre Hourly Weather Data (2018),
     iii. Cleaned bikeshare + weather data
-3. Documents - A compilation of technical and written reports in HTML and PDF format
+3. Documents - A compilation of technical and written reports in HTML and PDF format:
     i. Code files in html format,
 
 ## Data
