@@ -1,7 +1,7 @@
 # CIND820 - Big Data Analytics Project
 
 ## Overview
-The purpose of this study will be to evaluate the impact of weather conditions on bikeshare usage in Toronto and predict bikeshare demand. 
+The purpose of this study will be to evaluate the impact of weather conditions on bike share usage in Toronto and predict bikeshare demand. 
 In this repository you will find:
 1. Code Files - A set of technical reports in JupyterNotebook (IPYNB) format:
     i. Combining Datasets & Data Cleaning,
@@ -22,7 +22,7 @@ Toronto City Centre Hourly Weather Data (2018) is from Government of Canada, and
 Data cleaning involved formating the datatypes of features appropriately, checking for duplcate and null values, imputing null values, modifying and simplifying categorical data, and preliminary feature selection and engineering. The datasets were combined and transformed for model building.
 
 ## 3. Exploratory Data Analysis
-Exploratory Data Analysis was performed on each dataset using charts, histograms, correlation heatmaps, and lineplots to identify relationships between variables and patterns in bike share usage. 
+Exploratory Data Analysis was performed on each dataset using charts, histograms, correlation heatmaps, boxplots, and lineplots to identify relationships between variables and patterns in bike share usage. 
 
 ## 4. Model Evaluation
 An inital model evaluation was performed using Linear Regression. The model will be further improved, and additional models will be evaluated using Random Forest Regression, and Gradient Boosting Regression.
