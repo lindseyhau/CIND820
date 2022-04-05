@@ -1,7 +1,7 @@
 # CIND820 - Big Data Analytics Project
 
 ## Overview
-The purpose of this study will be to evaluate the impact of weather conditions on bike share usage in Toronto and predict bikeshare demand. 
+The purpose of this study is to evaluate the impact of weather conditions on bike share usage in Toronto and predict bikeshare demand. 
 In this repository you will find:
 1. Code Files - A set of technical reports in JupyterNotebook (IPYNB) format:
     i. Combining Datasets & Data Cleaning,
