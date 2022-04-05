@@ -6,13 +6,15 @@ In this repository you will find:
 1. Code Files - A set of technical reports in JupyterNotebook (IPYNB) format:
     i. Combining Datasets & Data Cleaning,
     ii. EDA (Exploratory Data Analysis),
-    iii. Model Evaulation (1)
+    iii. Model Evaluation (Trial 1)
+    iv. Model Evaulation (Trial 2-3-4)
+    
 2. Data - Links to downloaded data, raw data & cleaned data in CVS format:
     i. Raw Data Download Links,
     ii. Toronto City Centre Hourly Weather Data (2018),
     iii. Cleaned bikeshare + weather data
 3. Documents - A compilation of technical and written reports in HTML and PDF format:
-    i. Code files in html format,
+    i. Code files in html format
 
 ## 1. Data
 Bike Share Toronto Ridership Data (2018) is from Toronto Parking Authority, published on https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/. The dataset consists of data for more than 1.9 million bikeshare trips, with 9 features.
@@ -25,5 +27,5 @@ Data cleaning involved formating the datatypes of features appropriately, checki
 Exploratory Data Analysis was performed on each dataset using charts, histograms, correlation heatmaps, boxplots, and lineplots to identify relationships between variables and patterns in bike share usage. 
 
 ## 4. Model Evaluation
-An inital model evaluation was performed using Linear Regression. The model will be further improved, and additional models will be evaluated using Random Forest Regression, and Gradient Boosting Regression.
+Three machine learning algorithms were used to create a model to predict bikeshare demand. These algorithms include Linear Regression, Random Forest Regression, and Gradient Boosting Regression. Models were trained and tested using cross validation. Evaluation metrics used include RSME, negative MAE, R2, and run time. To improve the performance, feature selection and collinearity were addressed, hyperparameter tuning was applied.
 
