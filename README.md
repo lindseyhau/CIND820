@@ -13,7 +13,7 @@ In this repository you will find:
     i. Raw Data Download Links,
     ii. Toronto City Centre Hourly Weather Data (2018),
     iii. Cleaned bikeshare + weather data
-3. Documents - A compilation of technical and written reports in HTML and PDF format:
+3. Documents - A compilation of technical and written reports:
     i. Code files in pdf format
 
 ## 1. Data
