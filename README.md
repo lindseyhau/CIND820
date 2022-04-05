@@ -27,5 +27,5 @@ Data cleaning involved formating the datatypes of features appropriately, checki
 Exploratory Data Analysis was performed on each dataset using charts, histograms, correlation heatmaps, boxplots, and lineplots to identify relationships between variables and patterns in bike share usage. 
 
 ## 4. Model Evaluation
-Three machine learning algorithms were used to create a model to predict bikeshare demand. These algorithms include Linear Regression, Random Forest Regression, and Gradient Boosting Regression. Models were trained and tested using cross validation. Evaluation metrics used include RSME, negative MAE, R2, and run time. To improve the performance, feature selection and collinearity were addressed, hyperparameter tuning was applied.
+Three machine learning algorithms were used to create a model to predict bikeshare demand. These algorithms include Linear Regression, Random Forest Regression, and Gradient Boosting Regression. Models were trained and tested using cross validation. Evaluation metrics used include RSME, negative MAE, R2, and run time. To improve the performance, feature selection and collinearity were addressed, and hyperparameter tuning was applied.
 
